@@ -1,7 +1,12 @@
 # CLTV Prediction with BG-NBD and Gamma-Gamma using [FLO](https://www.flo.com.tr/)'s Dataset
-
 This is the CLTV Prediction _Real Life Case Study_ of [Miuul](https://miuul.com/) Data Science & Machine Learning
 Bootcamp
+
+![Human Growth Progression](https://raw.githubusercontent.com/ArmanTunga/cltv-prediction-flo/main/src/cltv-img.png)
+
+Image by <a href="https://www.freepik.com/free-vector/person-different-ages-illustration_6543317.htm#query=child%20growing&position=4&from_view=keyword&track=ais">Freepik</a>
+<br />
+
 
 ## About FLO
 
